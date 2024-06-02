@@ -1,7 +1,5 @@
 #include "iostream"
-#include <random>
 #include <stdlib.h>
-#include <string.h>
 using namespace std;
 
 bool winFirstPossibility(string (&gameArray)[3][3]){
